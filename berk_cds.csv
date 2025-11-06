@@ -1,0 +1,6 @@
+year,school,total_applied,total_accepted,uw_gpa_avg,sat_25,sat_avg,sat_75,act_25,act_avg,act_75,sat_math_25,sat_math_75,sat_english_25,sat_english_75,act_math_25,act_math_75,act_english_25,act_english_75,top_10p,top_25p,top_50p,bottom_50p,bottom_25p,uw_gpa_400,uw_gpa_375_399,uw_gpa_350_374,uw_gpa_325_349,uw_gpa_300_324,uw_gpa_100_299
+2020,UC Berkeley,87398,14676,3.93,1330,1430,1520,28,31,34,670,790,640,740,27,35,28,35,97,100,100,0,0,37,50,10,2,1,0
+2021,UC Berkeley,112846,16410,3.867,,,,,,,,,,,,,,,,,,,,33,50.4,12.9,2.7,0.7,0.3
+2022,UC Berkeley,128226,14614,3.9,,,,,,,,,,,,,,,,,,,,38.8,51.8,8,1,0.4,0.1
+2023,UC Berkeley,125916,14769,3.9,,,,,,,,,,,,,,,,,,,,38.3,49.8,9.5,1.6,0.5,0.3
+2024,UC Berkeley,124245,13714,3.9,,,,,,,,,,,,,,,,,,,,37.7,51.5,8.6,1.5,0.4,0.3
